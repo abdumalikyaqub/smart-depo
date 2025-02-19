@@ -35,6 +35,10 @@
   --background-color: #f5f6f8;
   --surface-color: #ffffff;
 }
+.part-background {
+  --background-color: #373b47;
+  --surface-color: #ffffff;
+}
 
 .dark-background {
   --background-color: #37517e;
